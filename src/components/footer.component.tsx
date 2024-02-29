@@ -2,8 +2,8 @@ import { FC } from "react";
 
 export const Footer: FC = () => {
     return (
-        <footer>
-            its a footer
+        <footer className="px-2 py-4 text-center">
+            .Gecko 2024
         </footer>
     )
 }
